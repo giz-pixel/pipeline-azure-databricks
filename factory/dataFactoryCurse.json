@@ -1,0 +1,9 @@
+{
+	"name": "dataFactoryCurse",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79842641-0bad-43f4-a63a-c2004fe0308c",
+		"tenantId": "fc0806dd-7af3-45f7-a9e9-4bb5ddcd7693"
+	}
+}
